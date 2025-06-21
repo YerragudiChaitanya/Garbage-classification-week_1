@@ -51,10 +51,10 @@ pip install -r requirements.txt
 
 🚀 Project Workflow (Progress)
 Step	Status
-Mount & extract dataset from Drive	     ✅ Done
-Data loading and visualization	         ✅ Done
+Mount & extract dataset from Drive	       ✅ Done
+Data loading and visualization	           ✅ Done
 Model building with EfficientNetV2B2	   ⏳ In Progress
-Evaluation and metrics	                 ⏳ To Do
+Evaluation and metrics	                   ⏳ To Do
 Gradio interface for predictions	       ⏳ To Do
 
 
@@ -70,11 +70,11 @@ for images, labels in train_ds.take(1):
         
 ✅ What You Should Do Next
 Task	Action
-🧠 Train Model	            Complete training using EfficientNetV2B2
-📈 Add Results	            Include accuracy/loss curves and confusion matrix
-🌐 Deploy with Gradio     	Build a user interface to classify new images
+🧠 Train Model	               Complete training using EfficientNetV2B2
+📈 Add Results	              Include accuracy/loss curves and confusion matrix
+🌐 Deploy with Gradio     	  Build a user interface to classify new images
 📝 Update Author Info	      Add your real name, GitHub, email, and LinkedIn
-📦 Add requirements.txt    	Use extracted libraries (already listed above)
+📦 Add requirements.txt    	  Use extracted libraries (already listed above)
 
 🤝 Contribution Guidelines
 Pull requests are welcome. For major changes, please open an issue first to discuss.
