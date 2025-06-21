@@ -79,10 +79,30 @@ pip install -r requirements.txt
 
 🚀 Project Workflow (Progress)
 Step	Status
+
+
 Mount & extract dataset from Drive	       ✅ Done
+
+
+
+
 Data loading and visualization	           ✅ Done
+
+
+
+
 Model building with EfficientNetV2B2	   ⏳ In Progress
+
+
+
+
 Evaluation and metrics	                   ⏳ To Do
+
+
+
+
+
+
 Gradio interface for predictions	       ⏳ To Do
 
 
